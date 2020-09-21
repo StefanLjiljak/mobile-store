@@ -1,4 +1,4 @@
-# Mobile Store e-commerce site using React and Netlify
+# Mobile Store e-commerce site using React, PayPal-express-checkout and Netlify
 
 https://mobile-store-website.netlify.app/
 
